@@ -354,7 +354,18 @@
    desc_ru: Биткоин-биржа и брокер. Легкий способ купить Bitcoin в пяти поддерживаемых странах.
    desc_uk: Біткоін-біржа і брокер. Легкий спосіб купити біткоін в п'яти підтримуваних країнах.
    desc_sell: Sell bitcoins in Indonesia, Kenya, Malaysia, Nigeria, and South Africa. 
-   
+
+ - name: Indacoin
+   desc: Bitcoin broker. Buy with credit or debit card without registration only 2 codes needed, 1st code from bank statement and 2nd from robot phone call, or buy with QIWI Wallet. 
+   url: https://indacoin.com/change
+   icon: https://www.buybitcoinworldwide.com/img/buy/indacoin.png
+   countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
+   po: cc
+   es: yes
+   desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet.
+   desc_de: Bitcoin Broker. Kaufen mit Kredit oder Debitkarte, QIWI Wallet, Yandex Money.
+   desc_ru: Купить биткоин кредитной или дебетовой картой, с помощью кошелька QIWI.
+   desc_uk: Купити біткоіни кредитної або дебетової картою, за допомогою гаманця QIWI.
 ##### USA ####################################################    
 
  - name: Gemini
@@ -1414,17 +1425,6 @@
    desc_de: Börse. Einzahlungen über Banküberweisungen, OKPay und Perfect Money ausführen.
    desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод, OKPay и Perfect Money.
    desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ, OKPay і Perfect Money.
-   
- - name: Indacoin
-   desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
-   url: https://indacoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/indacoin.png
-   countries: ru
-   po: cc, yandex
-   desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet, Yandex.Money.
-   desc_de: Bitcoin Broker. Kaufen mit Kredit oder Debitkarte, QIWI Wallet, Yandex Money.
-   desc_ru: Купить биткоин кредитной или дебетовой картой, с помощью кошелька QIWI, через Яндекс.Деньги.
-   desc_uk: Купити біткоіни кредитної або дебетової картою, за допомогою гаманця QIWI, через Яндекс.Деньги.
    
 ##### Ukraine ####################################################      
    
